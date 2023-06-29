@@ -13,6 +13,7 @@ I love working on the backend because it combines problem-solving skills and arc
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/brunocecatto/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cecattobruno/) 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=BCecatto&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BCecatto&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=BCecatto&theme=neon&hide_border=false&include_all_commits=true&count_private=true"  width="364px" />                    
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BCecatto&theme=neon&hide_border=false" width="400px" />
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=BCecatto&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
