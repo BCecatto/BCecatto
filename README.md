@@ -17,5 +17,4 @@ I love working on the backend because it combines problem-solving skills and arc
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=BCecatto&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
-![Snake animation](https://github.com/BCecatto/BCecatto/blob/output/github-contribution-grid-snake.svg)
 
